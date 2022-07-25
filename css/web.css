@@ -108,7 +108,7 @@ section:nth-child(2n+1){
 #header{
     height:100vh;
     width:100%;
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('../images/15120-architecture-blue-269077 - Copy.JPG');
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGJ1aWxkaW5nJTIwb2ZmaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60');
     background-repeat:no-repeat;
     background-size:cover;
     background-attachment:fixed;
